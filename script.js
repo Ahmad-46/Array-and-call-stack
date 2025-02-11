@@ -1,7 +1,7 @@
-let mixed_Array = ["orange",50, ["mango","strawberry",4], 32];
+let mixed_Array = ["bat",2250, ["football","badminton",4], 32];
 
 
-document.getElementById("Array").innerHTML = mixed_Array[2][0];
+document.getElementById("Array").innerHTML = mixed_Array[2];
 
 let hobbies = ["painting","sketching","Gaming","gardening"];
 
